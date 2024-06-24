@@ -1,4 +1,9 @@
-matplotlib
 numpy
+matplotlib
 scipy
 torchdiffeq
+scikit-learn
+tqdm
+ipykernel
+pandas
+nltk
