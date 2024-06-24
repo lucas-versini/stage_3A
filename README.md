@@ -1,4 +1,4 @@
-# stage_3A
+# Third-year research internship - Lucas Versini
 
 This repository contains the main scripts used during my internship at the [Chair for Dynamics, Control, Machine Learning and Numerics](https://dcn.nat.fau.eu/).
 
