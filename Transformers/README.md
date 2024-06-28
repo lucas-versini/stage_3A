@@ -1,3 +1,5 @@
+- The folder `Animations` contains some GIF animations showing the synamics of self-attention.
+
 - The folder `continuous_time` contains some code that can be used to reproduce experiments in a continuous-time setting.
 
 - The folder `discrete_time` focuses on discrete-time self-attention, with the possibility to create some animations for several choices of the value matrix $V$ for instance.
