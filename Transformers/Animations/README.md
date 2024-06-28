@@ -7,3 +7,5 @@ The file `Minus_Id_k_2D.gif` shows the evolution of the dynamics through the lay
 For all the animations, the matrices $Q_k$ and $K_k$ are chosen randomly.
 
 The coloration of the points (orange or blue) indicates to which cluster each point eventually converges.
+
+The file `Movie_review.gif` shows the evolution of the dynamics through the layers of a trained model for $V_k = \alpha_k I_d$, $\alpha_k \in \mathbb{R}$, for one review of the IMDb dataset.
